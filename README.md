@@ -75,5 +75,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Acknowledgments
 
-These labs were developed as part of the **Artificial Intelligence and Big Data** course at Sejong University of Technology. Special thanks to the course instructor and students for their valuable feedback.
+These labs were developed as part of the **Artificial Intelligence and Big Data** course at Sejong University. Special thanks to the course instructor and students for their valuable feedback.
 
